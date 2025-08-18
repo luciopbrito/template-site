@@ -1,3 +1,5 @@
+> This repository is archived because it will not receive updates.
+
 ![GitHub language count](https://img.shields.io/github/languages/count/Luciopbrito/template-site)
 ![GitHub top language](https://img.shields.io/github/languages/top/Luciopbrito/template-site)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Luciopbrito/template-site)
@@ -6,3 +8,4 @@
 # Observação
 O objetivo é chegar próximo à página de exemplo, usando todo meu conhecimento em HTML CSS e JavaScript. 
 > [Acesse a página](https://luciopbrito.github.io/template-site/)
+
